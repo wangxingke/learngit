@@ -2,3 +2,4 @@
 
 GitHub上不配置SSH Key 是不是就不能推送文件到远程仓库了，
 SSH Key 做下验证。
+本地有ssh ，github没有 是可以push到远程仓库的
