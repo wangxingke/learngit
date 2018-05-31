@@ -6,3 +6,5 @@ SSH Key 做下验证。
 如果本地版本库与github都没有配饰sshkey 也是可以push到远程仓库的
 
 校验配饰sshkey之后push代码是不是还需要输入用户名和密码
+
+将https协议替换为 ssh协议
