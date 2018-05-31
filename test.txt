@@ -14,3 +14,5 @@ SSH Key 做下验证。
 删除github的ssh 验证用ssh协议是否可以推送成功
 
 本地多ssh配置
+
+验证 host 属性的作用
